@@ -1,0 +1,17 @@
+# Maven build output
+target/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Operating-system and archive metadata
+.DS_Store
+Thumbs.db
+__MACOSX/
+._*
+
+# Java build artifacts
+*.class
+*.jar
+!/.mvn/wrapper/maven-wrapper.jar
